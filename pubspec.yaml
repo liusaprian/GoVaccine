@@ -1,0 +1,38 @@
+name: go_vaccine
+description: Medical COVID-19 App.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.1.0
+  cloud_firestore: ^2.5.3
+  firebase_core: ^1.6.0
+  google_sign_in: ^5.1.0
+  firebase_auth: ^3.1.1
+  shared_preferences: ^2.0.7
+  dot_navigation_bar: ^1.0.1+3
+  http: ^0.13.3
+  flutter_map: ^0.14.0
+  simple_tags: ^0.0.4
+  camera: ^0.9.2+2
+  path_provider: ^2.0.4
+  path: ^1.8.0
+  image_picker: ^0.8.4+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

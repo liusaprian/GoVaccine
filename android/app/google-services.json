@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770938807485",
+    "project_id": "govaccine-46de1",
+    "storage_bucket": "govaccine-46de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770938807485:android:f0ba00a023b55e31f003d4",
+        "android_client_info": {
+          "package_name": "app.liusaprian.go_vaccine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770938807485-i2auot154hdo5dc738317idavmlhsab1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.liusaprian.go_vaccine",
+            "certificate_hash": "056b16b79de552336b86cb08545804dd1add397b"
+          }
+        },
+        {
+          "client_id": "770938807485-cj5j2g96vnlpn9pml0fmf45is8gcc791.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqk1bchTzNrpOEMkn_C1gJpjYgWVLN0to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770938807485-cj5j2g96vnlpn9pml0fmf45is8gcc791.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
